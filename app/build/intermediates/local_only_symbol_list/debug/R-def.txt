@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color bg_color
+color black
+color btn_blue
+color btn_orange
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable flag
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable icon_pro_background
+id mBtnLogin
+id mBtnReg
+id mEditEmail
+id mEditName
+id mEditPassword
+id mEditPhone
+id mimgLogo
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+mipmap icon_pro
+mipmap icon_pro_foreground
+mipmap icon_pro_round
+string app_name
+string email_hint
+string name_hint
+string password_hint
+string phone_number_hint
+style Theme.AfternoonRegistrationForm
+xml backup_rules
+xml data_extraction_rules
